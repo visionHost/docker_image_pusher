@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64/v8 xiaoyaliu/alist
 --platform=linux/arm64/v8 postgres:17.2-alpine
 --platform=linux/arm64/v8 redis:7.4.2
+--platform=linux/arm64/v8 hello-world
